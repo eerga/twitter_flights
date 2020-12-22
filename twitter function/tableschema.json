@@ -1,0 +1,74 @@
+[
+    {
+        "name": "created_at",
+        "description": "",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "extended_tweet",
+        "description": "",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "favorite_count",
+        "description": "",
+        "mode": "NULLABLE",
+        "type": "INT64"
+    },
+    {
+        "name": "favorited",
+        "description": "",
+        "mode": "NULLABLE",
+        "type": "BOOL"
+    },
+    {
+        "name": "hashtags",
+        "description": "",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "in_reply_to_screen_name",
+        "description": "",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "query",
+        "description": "",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "lang",
+        "description": "",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    },
+    {
+        "name": "quote_count",
+        "description": "",
+        "mode": "NULLABLE",
+        "type": "INT64"
+    },
+    {
+        "name": "reply_count",
+        "description": "",
+        "mode": "NULLABLE",
+        "type": "INT64"
+    },
+    {
+        "name": "retweet_count",
+        "description": "",
+        "mode": "NULLABLE",
+        "type": "INT64"
+    },
+    {
+        "name": "text",
+        "description": "",
+        "mode": "NULLABLE",
+        "type": "STRING"
+    }
+]
