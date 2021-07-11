@@ -1,9 +1,8 @@
 ## Twitter & Plane Landing Correlation Assessment
-
+---
 ## Project Goal
 We decided to explore the possibility of correlation between the number of successfully landed commercial flights and overall Twitter activity.
 
----
 ### Where to use?
 This project is to be run on Google Cloud Platform (GCP). It includes running a **Pub/Sub job**.
 
